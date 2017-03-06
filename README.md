@@ -7,3 +7,5 @@ http://lionel.lakeside.dk/bin/view/PEMkons/InteraktionsDatabasen
 ftp://filer.sst.dk/filer/sks/data/skscomplete/
 
 http://147.29.29.240/SundhedDK/FindBehandler.svc?wsdl
+
+http://autregwebservice.sst.dk/autregservice.asmx
