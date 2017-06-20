@@ -2,6 +2,7 @@
 
 http://interaktionsdatabasen.dk/interaktionerV2.asmx
 http://interaktionsdatabasen.dk/interaktioner.asmx
+http://laegemiddelstyrelsen.dk/da/bivirkninger/interaktionsdatabasen-og-medicinkombination/
 http://lionel.lakeside.dk/bin/view/PEMkons/InteraktionsDatabasen
 https://laegemiddelstyrelsen.dk/da/bivirkninger/~/media/B5D08D44B96D4B1A92D7EACE7DDDA170.ashx
 
