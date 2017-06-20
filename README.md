@@ -14,3 +14,4 @@ http://autregwebservice.sst.dk/autregservice.asmx
 
 http://ws.benzinpriser.dk/stations/nearest?lat=56.1911794&lng=10.1874.176&oct=2&p=0&lmt=10
 
+https://www.pidb.dk/ws/pidbws.asmx
