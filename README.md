@@ -12,8 +12,6 @@ http://147.29.29.240/SundhedDK/FindBehandler.svc?wsdl
 
 http://autregwebservice.sst.dk/autregservice.asmx
 
-http://ws.benzinpriser.dk/stations/nearest?lat=56.1911794&lng=10.1874.176&oct=2&p=0&lmt=10
-
 https://www.pidb.dk/ws/pidbws.asmx
 
 http://laegemiddelstyrelsen.dk/da/bivirkninger/interaktionsdatabasen-og-medicinkombination/~/media/C2BB084582D6463381D02B0B9C6905A9.ashx
